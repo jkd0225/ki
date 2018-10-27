@@ -10,6 +10,15 @@
 <ul>
 	<li><a href="insert.jsp">글작성</a></li>
 	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
+	<li><a href="list.do">글목록</a></li>
 </ul>
 </body>
 </html>
