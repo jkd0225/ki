@@ -8,5 +8,6 @@
 </head>
 <body>
 	<input>
+	<input>
 </body>
 </html>
