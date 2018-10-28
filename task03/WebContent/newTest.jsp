@@ -9,5 +9,6 @@
 <body>
 	<input>
 	<input>
+	<input>
 </body>
 </html>
